@@ -1,2 +1,2 @@
 # Dataquest
-This consist of all projects  worked on during data analysis coursework
+This consist of all projects  worked on during Data Analysis coursework
